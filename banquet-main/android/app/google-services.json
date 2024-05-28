@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1052451963173",
+    "firebase_url": "https://my-banquet-proj-default-rtdb.firebaseio.com",
+    "project_id": "my-banquet-proj",
+    "storage_bucket": "my-banquet-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052451963173:android:954641899072239ede1acc",
+        "android_client_info": {
+          "package_name": "com.lcl.banquet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZqpMtzLKo_MvutlYYT7cqghHe6G3bjB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
